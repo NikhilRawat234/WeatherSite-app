@@ -1,1 +1,2 @@
-# WeatherSite-app
+# Weather-App
+Weather App using Open weather api.
